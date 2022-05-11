@@ -1,0 +1,17 @@
+.first-content{
+    margin-top: 20vh;
+    text-align:  center;
+}
+
+.picture-box img{
+    height: 100%;
+    width: 20vh;
+    border-radius: 50%;
+}
+
+.short-dec{
+    width: 50%;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+}

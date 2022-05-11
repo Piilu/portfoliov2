@@ -1,0 +1,11 @@
+.project-content{
+    display: flex;
+    justify-content: center;
+    margin-top: 10vh;
+    flex-wrap: wrap;
+
+}
+
+.project-content-page{
+    margin-top: 1em;
+}

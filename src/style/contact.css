@@ -1,0 +1,11 @@
+.contact-page{
+    margin-top: 1em;
+    display: flex;
+    justify-content: column;
+    flex-wrap: wrap;
+
+}
+.contact-forms{
+    margin-top: 10vh;
+    width: 100%;
+}

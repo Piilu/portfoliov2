@@ -1,0 +1,15 @@
+body{
+  margin: 0;
+  font-family: "Poppins";
+}
+.main{
+  display: flex;
+  flex-direction: column;
+}
+.main #first, #about, #project{
+  min-height: 100vh;
+
+}
+#footer{
+  width: 100%;
+}
