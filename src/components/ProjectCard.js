@@ -1,6 +1,6 @@
 import { motion } from 'framer-motion';
 import React from 'react';
-import { Container,Card,Button } from 'react-bootstrap';
+import { Card,Button } from 'react-bootstrap';
 
 function ProjectCard(props) {
     const {controls,sideIn} = props

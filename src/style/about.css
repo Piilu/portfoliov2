@@ -1,18 +1,22 @@
 .about-content {
     display: flex;
-    justify-content: row;
+    justify-content: center;
     flex-wrap: wrap;
     margin-top: 1em;
+
+    
 }
 
 .about-content .about-section-1 {
     width: 70vh;
+
 }
 
 .about-content .about-section-2 {
 
     width: 50vh;
-    margin: 3em;
+    margin: auto;
+
 }
 
 .page-title p {
@@ -47,7 +51,6 @@
 
 .big-pic {
     margin: 1em;
-
 
 }
 
