@@ -1,0 +1,16 @@
+.btn-contact{
+    background-color: #00FF4C;
+    outline: none  !important;
+    border: none !important;
+}
+.navbar-bg{
+    background-color: rgb(255, 237, 220);
+}
+#nav-items-size{
+    font-size: 1.2em;
+    font-weight:400;
+}
+#nav-title{
+    font-size: 1.6em;
+   font-weight:400;
+}

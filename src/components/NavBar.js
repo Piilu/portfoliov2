@@ -1,8 +1,9 @@
 import React from 'react';
 import { Navbar, Nav, Container, Button } from 'react-bootstrap';
+import "../style/navbar.css"
 function NavBar(props) {
     return (
-        <Navbar bg="dark" variant='dark' expand="lg">
+        <Navbar bg="light"  expand="lg">
             <Container>
                 <Navbar.Brand href="/">Portfoolio</Navbar.Brand>
                 <Navbar.Toggle aria-controls="basic-navbar-nav" />
@@ -17,7 +18,7 @@ function NavBar(props) {
                         <Nav.Link href="#project">Tööd</Nav.Link>
                     </Nav>
                     <Nav className="justify-content-center ">
-                        <Nav.Link style={{color:"#00FF4C"}} href="#contact">Võta ühendust</Nav.Link>
+                        <Button className='btn-contact' style={{backgroundColor:"#00FF4C"}} href="#contact">Võta ühendust</Button>
 
                     </Nav>
 
