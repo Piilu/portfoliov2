@@ -18,7 +18,7 @@ function ContactMe(props) {
             </Form.Group>
             <Form.Group className="mb-3" controlId="exampleForm.ControlTextarea1">
                 <Form.Label>Sisu</Form.Label>
-                <Form.Control as="textarea" rows={5} />
+                <Form.Control placeholder='Sisu' as="textarea" rows={5} />
             </Form.Group>
             <Form.Group className="mb-3" controlId="exampleForm.ControlTextarea1">
                 <Button>Saada</Button>

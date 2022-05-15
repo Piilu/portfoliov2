@@ -12,4 +12,9 @@ body{
 }
 #footer{
   width: 100%;
+  background-color: whitesmoke;
+  margin-top: 2em;
+}
+.project-card-box{
+  box-shadow: 6px 10px 6px #8888888c;
 }
